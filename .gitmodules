@@ -1,0 +1,3 @@
+[submodule "example"]
+	path = example
+	url = https://github.com/developerdanwu/mui-modal-provider-example.git
